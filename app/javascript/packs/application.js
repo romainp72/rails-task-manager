@@ -6,6 +6,8 @@
 require("@rails/ujs").start()
 require("turbolinks").start()
 require("channels")
+import "@fortawesome/fontawesome-free/css/all"
+
 
 
 // Uncomment to copy all static images under ../images to the output folder and reference
